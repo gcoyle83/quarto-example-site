@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Overview",
+    "section": "",
+    "text": "Brown and Caldwell’s Analytics and Data Science (ADS) team has been working with Digital Services and the Microsoft Technology Center to design, test and (here) document standard architectural solutions for implementing data science in the Azure cloud platform.\nThe goal for these standards is not to dictate how data science is done at BC, but to offer guidance on how to perform data science responsibly (usefully, ethically, reproducibly, economically) within the Azure cloud.\nTo learn more about the effort, see the About page.\nOr see this detailed section of About.\n\nWebsite developed using Quarto. To learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.html#some-basic-overview-details",
+    "href": "about.html#some-basic-overview-details",
+    "title": "About",
+    "section": "Some Basic Overview Details",
+    "text": "Some Basic Overview Details"
+  },
+  {
+    "objectID": "about.html#detailed-sub-section",
+    "href": "about.html#detailed-sub-section",
+    "title": "About",
+    "section": "Detailed Sub-section",
+    "text": "Detailed Sub-section\nDetailed subcontent."
+  }
+]

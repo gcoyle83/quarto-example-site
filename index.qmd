@@ -1,0 +1,14 @@
+---
+title: "Overview"
+---
+
+We've been working with the Technology Center to design, test and (here) document standard architectural solutions for implementing data science in the Azure cloud platform.
+
+The goal for these standards is not to dictate how data science is done, but to offer guidance on how to perform data science responsibly (usefully, ethically, reproducibly, economically) within the Azure cloud.
+
+To learn more about the effort, see the [About page](about.qmd).
+
+Or see this detailed section of [About](about.qmd#detailed-sub-section).
+
+>Website developed using Quarto.
+>To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

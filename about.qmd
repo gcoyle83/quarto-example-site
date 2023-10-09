@@ -1,0 +1,15 @@
+---
+title: "About"
+---
+
+About this site
+
+# General Section
+
+## Some Basic Overview Details
+
+# Detailed Section
+This is a section that provides details.
+
+## Detailed Sub-section
+Detailed subcontent.
