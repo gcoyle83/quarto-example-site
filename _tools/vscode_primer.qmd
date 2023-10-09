@@ -1,0 +1,20 @@
+---
+title: "VS Code"
+---
+# Getting Started with VS Code
+This page is intended as primer/SOP for installing and configuring VS Code for a generic Python project.
+
+The primary steps covered here are:
+-  Install VS Code
+-  Install GitHub and source control extensions
+-  Install Python linting/formatting extensions in VS Code
+-  Basic usage instructions for a template Python project
+
+## Install VS Code
+later
+
+## Install Extensions
+later
+
+## Basic Usage
+later
