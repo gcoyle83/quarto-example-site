@@ -10,5 +10,7 @@ This is a collaborative site for continual development of organizational guidanc
 
 To learn more about the collaborators on the effort, see the [About page](about.qmd).
 
+Visit our [source repository](https://github.com/gcoyle83/quarto-example-site).
+
 >Website developed using Quarto.
 >To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
