@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/gcoyle83/quarto-example-site/about.html</loc>
-    <lastmod>2023-10-09T18:45:40.877Z</lastmod>
+    <lastmod>2023-10-09T20:39:13.766Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/gcoyle83/quarto-example-site/tools.html</loc>
+    <lastmod>2023-10-09T20:39:12.770Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/gcoyle83/quarto-example-site/index.html</loc>
-    <lastmod>2023-10-09T18:45:40.201Z</lastmod>
+    <lastmod>2023-10-09T20:39:13.474Z</lastmod>
   </url>
 </urlset>
