@@ -1,14 +1,14 @@
 ---
-title: "Overview"
+title: "Introduction"
 ---
 
-We've been working with the Technology Center to design, test and (here) document standard architectural solutions for implementing data science in the Azure cloud platform.
+This is a collaborative site for continual development of organizational guidance and reusable templates for Python projects. Similar sites for R, Julia and other useful languages will probably be helpful, but are beyond the present scope of this site. The primary objectives for development of this site were outlined at the September 2023 "hackathon" in Andover, MA, including:
 
-The goal for these standards is not to dictate how data science is done, but to offer guidance on how to perform data science responsibly (usefully, ethically, reproducibly, economically) within the Azure cloud.
+-  Installation and setup instructions for basic development tools (Anaconda, VS Code, et cetera)
+-  Recommendations for standard scaffolding of Python project repositories in GitHub, including best practices for coding standards, formatting, unit testing and project documentation
+-  Links to/recommendations for "learning paths" to help young professionals develop software/coding skills
 
-To learn more about the effort, see the [About page](about.qmd).
-
-Or see this detailed section of [About](about.qmd#detailed-sub-section).
+To learn more about the collaborators on the effort, see the [About page](about.qmd).
 
 >Website developed using Quarto.
 >To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
