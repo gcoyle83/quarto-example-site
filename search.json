@@ -23,8 +23,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Overview",
+    "title": "Introduction",
     "section": "",
-    "text": "We’ve been working with the Technology Center to design, test and (here) document standard architectural solutions for implementing data science in the Azure cloud platform.\nThe goal for these standards is not to dictate how data science is done, but to offer guidance on how to perform data science responsibly (usefully, ethically, reproducibly, economically) within the Azure cloud.\nTo learn more about the effort, see the About page.\nOr see this detailed section of About.\n\nWebsite developed using Quarto. To learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a collaborative site for continual development of organizational guidance and reusable templates for Python projects. Similar sites for R, Julia and other useful languages will probably be helpful, but are beyond the present scope of this site. The primary objectives for development of this site were outlined at the September 2023 “hackathon” in Andover, MA, including:\n\nInstallation and setup instructions for basic development tools (Anaconda, VS Code, et cetera)\nRecommendations for standard scaffolding of Python project repositories in GitHub, including best practices for coding standards, formatting, unit testing and project documentation\nLinks to/recommendations for “learning paths” to help young professionals develop software/coding skills\n\nTo learn more about the collaborators on the effort, see the About page.\n\nWebsite developed using Quarto. To learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
