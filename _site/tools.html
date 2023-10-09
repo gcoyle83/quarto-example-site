@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Python Development Group - Introduction</title>
+<title>Python Development Group - Tools</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -82,7 +82,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -90,7 +90,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./tools.html" rel="" target="">
+    <a class="nav-link active" href="./tools.html" rel="" target="" aria-current="page">
  <span class="menu-text">Tools</span></a>
   </li>  
 </ul>
@@ -105,14 +105,37 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#integrated-development-environments" id="toc-integrated-development-environments" class="nav-link active" data-scroll-target="#integrated-development-environments">Integrated Development Environments</a>
+  <ul class="collapse">
+  <li><a href="#vs-code" id="toc-vs-code" class="nav-link" data-scroll-target="#vs-code">VS Code</a></li>
+  <li><a href="#others" id="toc-others" class="nav-link" data-scroll-target="#others">Others</a></li>
+  </ul></li>
+  <li><a href="#package-and-environment-management" id="toc-package-and-environment-management" class="nav-link" data-scroll-target="#package-and-environment-management">Package and Environment Management</a>
+  <ul class="collapse">
+  <li><a href="#anaconda" id="toc-anaconda" class="nav-link" data-scroll-target="#anaconda">Anaconda</a></li>
+  <li><a href="#python-package-index" id="toc-python-package-index" class="nav-link" data-scroll-target="#python-package-index">Python Package Index</a></li>
+  <li><a href="#venv" id="toc-venv" class="nav-link" data-scroll-target="#venv">Venv</a></li>
+  </ul></li>
+  <li><a href="#containerization" id="toc-containerization" class="nav-link" data-scroll-target="#containerization">Containerization</a>
+  <ul class="collapse">
+  <li><a href="#docker" id="toc-docker" class="nav-link" data-scroll-target="#docker">Docker</a></li>
+  <li><a href="#kubernetes" id="toc-kubernetes" class="nav-link" data-scroll-target="#kubernetes">Kubernetes</a></li>
+  <li><a href="#azure-container-instances" id="toc-azure-container-instances" class="nav-link" data-scroll-target="#azure-container-instances">Azure Container Instances</a></li>
+  <li><a href="#helm" id="toc-helm" class="nav-link" data-scroll-target="#helm">Helm</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Introduction</h1>
+<h1 class="title">Tools</h1>
 </div>
 
 
@@ -127,18 +150,57 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>This is a collaborative site for continual development of organizational guidance and reusable templates for Python projects. Similar sites for R, Julia and other useful languages will probably be helpful, but are beyond the present scope of this site. The primary objectives for development of this site were outlined at the September 2023 “hackathon” in Andover, MA, including:</p>
-<ul>
-<li>Installation and setup instructions for basic development tools (Anaconda, VS Code, et cetera)</li>
-<li>Recommendations for standard scaffolding of Python project repositories in GitHub, including best practices for coding standards, formatting, unit testing and project documentation</li>
-<li>Links to/recommendations for “learning paths” to help young professionals develop software/coding skills</li>
-</ul>
-<p>To learn more about the collaborators on the effort, see the <a href="./about.html">About page</a>.</p>
-<blockquote class="blockquote">
-<p>Website developed using Quarto. To learn more about Quarto websites visit <a href="https://quarto.org/docs/websites" class="uri">https://quarto.org/docs/websites</a>.</p>
-</blockquote>
+<p>There are many useful Python development tools, and we do not pretend to know them all. This section of the site offers guidance on which tools to use to get started and is based purely on our present abilities to provide guidance rather than any claims of one tool being better than any other. The tools identified and summarized here are selected based on current usage and willingness of a team member to share their knowledge here. If you like a tool that is not included in this section, please contribute content to improve the coverage here.</p>
+<section id="integrated-development-environments" class="level2">
+<h2 class="anchored" data-anchor-id="integrated-development-environments">Integrated Development Environments</h2>
+<p>Integrated Development Environments (IDEs) are the workhorse for efficient software development, whether doing simple scripting or developing complex machine learning systems. The <em>recommended</em> IDE for Python development at present is VS Code, in the sense that current contributors to this content use VS Code and have more knowledge to share about VS Code than other IDEs such as, for example, PyCharm or Spyder.</p>
+<section id="vs-code" class="level3">
+<h3 class="anchored" data-anchor-id="vs-code">VS Code</h3>
+<p>Visual Studio Code (VS Code) is a free multi-language IDE developed by Microsoft and is popularly used by software engineers for developing solutions in numerous languages. The VS Code extensions ecosystem is large and active - there are extensions for linting, formatting, source control, containerization, cloud computing services and much (much) more.</p>
+<p>Ready to give it a try? See our <a href="./tools/vscode_primer.html">primer on installing and setting up VS Code</a> to effectively collaborate on Python development projects.</p>
+</section>
+<section id="others" class="level3">
+<h3 class="anchored" data-anchor-id="others">Others</h3>
+<p>Feel free to add short descriptions of your favorite IDE and link to a primer page here.</p>
+</section>
+</section>
+<section id="package-and-environment-management" class="level2">
+<h2 class="anchored" data-anchor-id="package-and-environment-management">Package and Environment Management</h2>
+<p>Perhaps more controversial than what IDE to use, what tools should you use to manage project packages and evironments?</p>
+<section id="anaconda" class="level3">
+<h3 class="anchored" data-anchor-id="anaconda">Anaconda</h3>
+<p>The much maligned but rarely defeated…</p>
+</section>
+<section id="python-package-index" class="level3">
+<h3 class="anchored" data-anchor-id="python-package-index">Python Package Index</h3>
+<p>The foundation…</p>
+</section>
+<section id="venv" class="level3">
+<h3 class="anchored" data-anchor-id="venv">Venv</h3>
+</section>
+</section>
+<section id="containerization" class="level2">
+<h2 class="anchored" data-anchor-id="containerization">Containerization</h2>
+<p>Package and environment management is necessary but insufficient to ensure reproducible projects. Environments run on operating systems, which run on real or virtual machines. Containerization is a technology developed to support reproducibility and virtualization (at scale) of operating systems. The leading tools for containerization of Python (or, really, any development) projects are Docker and Kubernetes.</p>
+<section id="docker" class="level3">
+<h3 class="anchored" data-anchor-id="docker">Docker</h3>
+<p>is…</p>
+</section>
+<section id="kubernetes" class="level3">
+<h3 class="anchored" data-anchor-id="kubernetes">Kubernetes</h3>
+<p>is…</p>
+</section>
+<section id="azure-container-instances" class="level3">
+<h3 class="anchored" data-anchor-id="azure-container-instances">Azure Container Instances</h3>
+<p>is…</p>
+</section>
+<section id="helm" class="level3">
+<h3 class="anchored" data-anchor-id="helm">Helm</h3>
+<p>is…</p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

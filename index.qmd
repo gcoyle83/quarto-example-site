@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Welcome"
 ---
 
 This is a collaborative site for continual development of organizational guidance and reusable templates for Python projects. Similar sites for R, Julia and other useful languages will probably be helpful, but are beyond the present scope of this site. The primary objectives for development of this site were outlined at the September 2023 "hackathon" in Andover, MA, including:

@@ -4,5 +4,11 @@
   },
   "about.qmd": {
     "about.html": "6c1c657f"
+  },
+  "tools/vscode_primer.qmd": {
+    "vscode_primer.html": "afa277e0"
+  },
+  "tools.qmd": {
+    "tools.html": "b9c20aa6"
   }
 }
