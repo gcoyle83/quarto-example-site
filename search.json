@@ -35,6 +35,34 @@
     "text": "Package and environment management is necessary but insufficient to ensure reproducible projects. Environments run on operating systems, which run on real or virtual machines. Containerization is a technology developed to support reproducibility and virtualization (at scale) of operating systems. The leading tools for containerization of Python (or, really, any development) projects are Docker and Kubernetes.\n\n\nis…\n\n\n\nis…\n\n\n\nis…\n\n\n\nis…"
   },
   {
+    "objectID": "tools/vscode_primer.html",
+    "href": "tools/vscode_primer.html",
+    "title": "VS Code",
+    "section": "",
+    "text": "This page is intended as primer/SOP for installing and configuring VS Code for a generic Python project.\nThe primary steps covered here are: - Install VS Code - Install GitHub and source control extensions - Install Python linting/formatting extensions in VS Code - Basic usage instructions for a template Python project\n\n\nlater\n\n\n\nlater\n\n\n\nlater"
+  },
+  {
+    "objectID": "tools/vscode_primer.html#install-vs-code",
+    "href": "tools/vscode_primer.html#install-vs-code",
+    "title": "VS Code",
+    "section": "",
+    "text": "later"
+  },
+  {
+    "objectID": "tools/vscode_primer.html#install-extensions",
+    "href": "tools/vscode_primer.html#install-extensions",
+    "title": "VS Code",
+    "section": "",
+    "text": "later"
+  },
+  {
+    "objectID": "tools/vscode_primer.html#basic-usage",
+    "href": "tools/vscode_primer.html#basic-usage",
+    "title": "VS Code",
+    "section": "",
+    "text": "later"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Introduction",
