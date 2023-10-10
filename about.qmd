@@ -6,3 +6,5 @@ The Python Development Group is an informal team of associates from various prac
 
 # Development Group Members
 The Python Dev Group members are voluntary and unofficial. If you are interested in joining the group to participate in these discussions, please reach out to a current team member and let them know.
+
+-  Greg Coyle
